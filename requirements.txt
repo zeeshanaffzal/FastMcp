@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+fastmcp<4
+langchain
+langchain-openai
+langchain-mcp-adapters
+langgraph
+python-dotenv
+mcp<2
+slack_sdk
